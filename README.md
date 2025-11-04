@@ -1,6 +1,6 @@
 # VPN Setup in a Virtual Machine — Step-by-Step Guide
 
-A practical guide to set up and test a VPN inside a Windows 10 virtual machine on Azure.  
+A guide that teaches you how to set up and test a VPN inside a Windows 10 virtual machine on Azure.  
 This guide demonstrates how to install Proton VPN, connect, and verify your VPN connection.
 
 
