@@ -41,7 +41,9 @@ Estimated time: 30–60 minutes.
 ### 2 — Check Your Current IP
 1. Once you're the VM, open up a web browser.  
 2. Go to [https://whatismyipaddress.com/](https://whatismyipaddress.com/)  
-3. Write down the IP address somewhere (Notepad or on paper) to come back to later.
+3. Write down the IP address somewhere (Notepad or on paper) to come back to later.<br>
+<img width="201" height="104" alt="image" src="https://github.com/user-attachments/assets/703de1a3-77d9-4d65-beeb-32e5b16615f5" />
+
    
 
 
