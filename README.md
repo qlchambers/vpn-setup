@@ -1,16 +1,16 @@
 # VPN Setup in a Virtual Machine — Step-by-Step Guide
 
-A guide that teaches you how to set up and test a VPN inside a Windows 10 virtual machine on Azure.  
+This is my guide that teaches you how to set up and test a VPN inside a Windows 10 virtual machine on Azure.  
 This guide demonstrates how to install Proton VPN, connect, and verify your VPN connection.
 
 
-## 🚩 What This Guide Is For
+🚩 What This Guide Is For
 Goal: Learn to set up a VPN inside a VM, connect to a server, and verify that the IP returns encrypted.<br>Target audience: Anyone learning IT, virtual networking, or experimenting with VPNs.<br>
 Estimated time: 30–60 minutes.
 
 
 
-## 🛠 Prerequisites
+🛠 Prerequisites
 - Microsoft Azure account  
 - Able to create a Resource Group and deploy a Windows 10 VM  
 - Remote Desktop access (RDP) to the VM  
@@ -18,14 +18,14 @@ Estimated time: 30–60 minutes.
 - Proton VPN account (the free version will also work)  
 
 
-## 📋 Environments and Technologies Used
+📋 Environments and Technologies Used
 - VPN: Proton VPN  
   Cloud Platform: Microsoft Azure (Virtual Machines)  
 - Remote Access: RDP  
 - Operating System: Windows 10
 
 
-## ✅ Installation & Setup Steps
+✅ Installation & Setup Steps
 
 ### 1 — Deploy a Virtual Machine
 1. Log into Azure Portal.  
