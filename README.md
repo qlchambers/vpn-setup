@@ -4,7 +4,7 @@ This is my guide that teaches you how to set up and test a VPN inside a Windows 
 This guide demonstrates how to install Proton VPN, connect, and verify your VPN connection.
 
 
-🚩 What This Guide Is For
+## 🚩 What This Guide Is For
 Goal: Learn to set up a VPN inside a VM, connect to a server, and verify that the IP returns encrypted.<br>Target audience: Anyone learning IT, virtual networking, or experimenting with VPNs.<br>
 Estimated time: 30–60 minutes.
 
