@@ -76,6 +76,7 @@ Installation & Setup Steps
 - Make sure that there is no connection loss or blocked content.  
 - Disconnect/reconnect the VPN to test connectivity and speed.
 
+---
 
 ### Notes & Tips
 - Record your original IP BEFORE connecting to a VPN for testing purposes.  
